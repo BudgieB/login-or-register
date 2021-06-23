@@ -1,0 +1,82 @@
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 14px;
+    background: #f2f2f2;
+}
+
+/* signin and oassword */
+
+.signin_form{
+    background: #fafafa;
+    width: 500px;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 35px;
+    margin: 8% auto 0;
+    position: relative;
+    border-radius: 8px;
+    border-top: 20px solid #2E2EFE;
+}
+
+.signin_title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.signin_input {
+    margin-bottom: 20px;
+}
+
+.signin_text a {
+    color: #000;
+    text-align: center;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
+.signin_text a:hover {
+    color: #ccc;
+}
+
+.signin_text a:focus {
+    color: #fcfcfc;
+}
+
+.signin_btn {
+    margin: 20px auto;
+    width: 100px;
+}
+
+.credit {
+    text-align: center;
+}
+
+.input_field {
+    position: relative;
+    margin-bottom: 20px;
+    -webkit-animation: bounce 0.6s ease-out;
+    animation: bounce 0.6s ease-out;
+}
+
+/* register */
+
+.register_form{
+    background: #fafafa;
+    width: 1000px;
+    max-width: 100%;
+    box-sizing: border-box;
+    padding: 35px;
+    margin: 8% auto 0;
+    position: relative;
+    border-radius: 8px;
+    border-top: 20px solid #2E2EFE;
+}
+
+.register_title{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.label_space {
+    margin-top: 10px;
+}
